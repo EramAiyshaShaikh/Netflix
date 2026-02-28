@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Netflix
+Version: 0.0.1
+Author: Eram
+Author-email: eram.s1994@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
